@@ -1,0 +1,8 @@
+#----- begin Korean support package (2004-jul-27)
+cidToUnicode	Adobe-Korea1	/usr/share/xpdf/korean/Adobe-Korea1.cidToUnicode
+unicodeMap	ISO-2022-KR	/usr/share/xpdf/korean/ISO-2022-KR.unicodeMap
+cMapDir		Adobe-Korea1	/usr/share/fonts/cmap/adobe-korea1
+toUnicodeDir			/usr/share/fonts/cmap/adobe-korea1
+displayCIDFontTT	Adobe-Korea1	/usr/share/fonts/truetype/baekmuk/batang.ttf
+displayCIDFontTT	Unidocs-Korea1	/usr/share/fonts/truetype/baekmuk/batang.ttf
+#----- end Korean support package
